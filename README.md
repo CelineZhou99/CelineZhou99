@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CelineZhou99
 - 👀 I’m interested in Game Development or just anything related to games!
 - 🌱 I’m currently learning Unreal Engine 5
-- 📫 How to reach me -> celine.zhou.99@outlook.com
+- 📫 How to reach me -> celine.zhou.99@outlook.com OR https://www.linkedin.com/in/celinezhou3105/
 
 <!---
 CelineZhou99/CelineZhou99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
